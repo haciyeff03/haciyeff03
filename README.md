@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Qurban Haciyev<br>I'm Frontend developer
+I'm Qurban Haciyev<br>I'm Web Developer
 
 
 ## 🌐 Socials:
